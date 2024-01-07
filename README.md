@@ -1,0 +1,1 @@
+Lightweight custom ioc container. Mainly for Unity.
